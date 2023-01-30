@@ -7,6 +7,10 @@
 
 /* Home*/
 @import"./home.css/introducao.css";
+@import"./home.css/tecnologia.css";
+@import"./home.css/parceiros.css";
+
+
 
 /* Bicicletas */
 @import"./bicicletas/bicicletas-listas.css";
