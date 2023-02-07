@@ -2,18 +2,27 @@
 @import"./utilidades/tipografia.css";
 @import"./utilidades/cores.css";
 @import"./global/header.css";
+@import"./global/footer.css";
+
 @import"./utilidades/componentes.css";
+
+
 
 
 /* Home*/
 @import"./home.css/introducao.css";
 @import"./home.css/tecnologia.css";
 @import"./home.css/parceiros.css";
+@import"./home.css/depoimento.css";
+
 
 
 
 /* Bicicletas */
 @import"./bicicletas/bicicletas-listas.css";
+
+@import"./seguros/seguros.css";
+
 
 
 
