@@ -1,12 +1,15 @@
+/* global */
+
 @import"./global/global.css";
-@import"./utilidades/tipografia.css";
-@import"./utilidades/cores.css";
 @import"./global/header.css";
 @import"./global/footer.css";
 
+/* utilidades */
+
 @import"./utilidades/componentes.css";
-
-
+@import"./utilidades/tipografia.css";
+@import"./utilidades/cores.css";
+@import"./utilidades/formulario.css";
 
 
 /* Home*/
@@ -14,8 +17,6 @@
 @import"./home.css/tecnologia.css";
 @import"./home.css/parceiros.css";
 @import"./home.css/depoimento.css";
-
-
 
 
 /* Bicicletas */
@@ -33,6 +34,9 @@
 @import"./seguros/vantagens.css";
 @import"./seguros/perguntas.css";
 
+/* contato */
+@import"./contato/contato.css";
+@import"./contato/lojas.css";
 
 /* termos */
 @import"./termos/termos.css";
